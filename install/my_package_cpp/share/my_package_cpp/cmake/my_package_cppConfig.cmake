@@ -1,0 +1,1 @@
+/home/nazerke/ros2_ws/build/my_package_cpp/ament_cmake_core/my_package_cppConfig.cmake

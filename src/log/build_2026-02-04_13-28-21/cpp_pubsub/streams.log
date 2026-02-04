@@ -1,0 +1,68 @@
+[0.016s] Invoking command in '/home/nazerke/ros2_ws/src/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nazerke/ros2_ws/install/launch_testing_examples:/home/nazerke/ros2_ws/install/khamzina:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_service:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_client:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_server:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_client:/home/nazerke/ros2_ws/install/examples_rclpy_guard_conditions:/home/nazerke/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/src/install/cpp_pubsub
+[0.396s] -- The C compiler identification is GNU 13.3.0
+[1.217s] -- The CXX compiler identification is GNU 13.3.0
+[1.834s] -- Detecting C compiler ABI info
+[2.150s] -- Detecting C compiler ABI info - done
+[2.160s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.161s] -- Detecting C compile features
+[2.162s] -- Detecting C compile features - done
+[2.270s] -- Detecting CXX compiler ABI info
+[2.575s] -- Detecting CXX compiler ABI info - done
+[2.585s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.586s] -- Detecting CXX compile features
+[2.586s] -- Detecting CXX compile features - done
+[2.638s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.839s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.050s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[3.388s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[3.425s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[3.492s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.539s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.725s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[3.736s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[3.899s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[4.107s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[4.227s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.566s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[4.606s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.799s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.799s] -- Configured cppcheck include dirs: 
+[4.799s] -- Configured cppcheck exclude dirs and/or files: 
+[4.803s] -- Added test 'lint_cmake' to check CMake code style
+[4.808s] -- Added test 'uncrustify' to check C / C++ code style
+[4.808s] -- Configured uncrustify additional arguments: 
+[4.811s] -- Added test 'xmllint' to check XML markup files
+[4.818s] -- Configuring done (4.8s)
+[4.838s] -- Generating done (0.0s)
+[4.844s] -- Build files have been written to: /home/nazerke/ros2_ws/src/build/cpp_pubsub
+[4.860s] Invoked command in '/home/nazerke/ros2_ws/src/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nazerke/ros2_ws/install/launch_testing_examples:/home/nazerke/ros2_ws/install/khamzina:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_service:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_client:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_server:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_client:/home/nazerke/ros2_ws/install/examples_rclpy_guard_conditions:/home/nazerke/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/src/install/cpp_pubsub
+[4.860s] Invoking command in '/home/nazerke/ros2_ws/src/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nazerke/ros2_ws/install/launch_testing_examples:/home/nazerke/ros2_ws/install/khamzina:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_service:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_client:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_server:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_client:/home/nazerke/ros2_ws/install/examples_rclpy_guard_conditions:/home/nazerke/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/src/build/cpp_pubsub -- -j4 -l4
+[4.922s] [ 25%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_lambda_function.cpp.o[0m
+[4.922s] [ 50%] [32mBuilding CXX object CMakeFiles/listener.dir/src/subscriber_lambda_function.cpp.o[0m
+[11.917s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[12.361s] [ 75%] Built target talker
+[15.763s] [100%] [32m[1mLinking CXX executable listener[0m
+[16.187s] [100%] Built target listener
+[16.204s] Invoked command in '/home/nazerke/ros2_ws/src/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nazerke/ros2_ws/install/launch_testing_examples:/home/nazerke/ros2_ws/install/khamzina:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_service:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_client:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_server:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_client:/home/nazerke/ros2_ws/install/examples_rclpy_guard_conditions:/home/nazerke/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/src/build/cpp_pubsub -- -j4 -l4
+[16.218s] Invoking command in '/home/nazerke/ros2_ws/src/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nazerke/ros2_ws/install/launch_testing_examples:/home/nazerke/ros2_ws/install/khamzina:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_service:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_client:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_server:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_client:/home/nazerke/ros2_ws/install/examples_rclpy_guard_conditions:/home/nazerke/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy /usr/bin/cmake --install /home/nazerke/ros2_ws/src/build/cpp_pubsub
+[16.229s] -- Install configuration: ""
+[16.230s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/lib/cpp_pubsub/talker
+[16.233s] -- Set non-toolchain portion of runtime path of "/home/nazerke/ros2_ws/src/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[16.233s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/lib/cpp_pubsub/listener
+[16.238s] -- Set non-toolchain portion of runtime path of "/home/nazerke/ros2_ws/src/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+[16.239s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[16.239s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[16.240s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[16.240s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[16.240s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[16.241s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[16.241s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[16.242s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[16.242s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[16.242s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[16.242s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[16.242s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[16.242s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[16.243s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[16.243s] -- Installing: /home/nazerke/ros2_ws/src/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[16.246s] Invoked command in '/home/nazerke/ros2_ws/src/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nazerke/ros2_ws/install/launch_testing_examples:/home/nazerke/ros2_ws/install/khamzina:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_service:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_client:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_server:/home/nazerke/ros2_ws/install/examples_rclpy_minimal_action_client:/home/nazerke/ros2_ws/install/examples_rclpy_guard_conditions:/home/nazerke/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy /usr/bin/cmake --install /home/nazerke/ros2_ws/src/build/cpp_pubsub

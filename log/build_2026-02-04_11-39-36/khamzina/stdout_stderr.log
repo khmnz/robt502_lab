@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/khamzina/khamzina.egg-info/PKG-INFO
+writing dependency_links to ../../build/khamzina/khamzina.egg-info/dependency_links.txt
+writing entry points to ../../build/khamzina/khamzina.egg-info/entry_points.txt
+writing requirements to ../../build/khamzina/khamzina.egg-info/requires.txt
+writing top-level names to ../../build/khamzina/khamzina.egg-info/top_level.txt
+reading manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+writing manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+running build
+running build_py
+copying khamzina/subscriber.py -> /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina
+copying khamzina/publisher.py -> /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina
+running install
+running install_lib
+copying /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina/subscriber.py -> /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina
+copying /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina/publisher.py -> /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina
+byte-compiling /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina/subscriber.py to subscriber.cpython-312.pyc
+byte-compiling /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina/publisher.py to publisher.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/khamzina/khamzina.egg-info to /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher script to /home/nazerke/ros2_ws/install/khamzina/lib/khamzina
+Installing subscriber script to /home/nazerke/ros2_ws/install/khamzina/lib/khamzina
+writing list of installed files to '/home/nazerke/ros2_ws/build/khamzina/install.log'

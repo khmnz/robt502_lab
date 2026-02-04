@@ -1,0 +1,15 @@
+-- run_test.py: invoking following command in '/home/nazerke/ros2_ws/src/ros_tutorials/turtlesim':
+ - /opt/ros/jazzy/bin/ament_flake8 --xunit-file /home/nazerke/ros2_ws/build/turtlesim/test_results/turtlesim/flake8.xunit.xml
+
+
+2 files checked
+No problems found
+
+Checked files:
+
+* ./src/turtlesim/__init__.py
+* ./launch/multisim.launch.py
+
+
+-- run_test.py: return code 0
+-- run_test.py: verify result file '/home/nazerke/ros2_ws/build/turtlesim/test_results/turtlesim/flake8.xunit.xml'

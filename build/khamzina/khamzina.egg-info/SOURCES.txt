@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/khamzina/khamzina.egg-info/PKG-INFO
+../../build/khamzina/khamzina.egg-info/SOURCES.txt
+../../build/khamzina/khamzina.egg-info/dependency_links.txt
+../../build/khamzina/khamzina.egg-info/entry_points.txt
+../../build/khamzina/khamzina.egg-info/requires.txt
+../../build/khamzina/khamzina.egg-info/top_level.txt
+../../build/khamzina/khamzina.egg-info/zip-safe
+khamzina/__init__.py
+khamzina/publisher.py
+khamzina/subscriber.py
+resource/khamzina
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

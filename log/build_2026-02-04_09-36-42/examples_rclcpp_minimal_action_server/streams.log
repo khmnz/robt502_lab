@@ -1,0 +1,43 @@
+[0.042s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/examples/rclcpp/actions/minimal_action_server -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/examples_rclcpp_minimal_action_server
+[0.567s] -- The C compiler identification is GNU 13.3.0
+[1.602s] -- The CXX compiler identification is GNU 13.3.0
+[2.597s] -- Detecting C compiler ABI info
+[3.195s] -- Detecting C compiler ABI info - done
+[3.216s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.217s] -- Detecting C compile features
+[3.217s] -- Detecting C compile features - done
+[3.366s] -- Detecting CXX compiler ABI info
+[3.990s] -- Detecting CXX compiler ABI info - done
+[4.023s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.023s] -- Detecting CXX compile features
+[4.023s] -- Detecting CXX compile features - done
+[4.028s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[4.524s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[4.822s] -- Found example_interfaces: 0.12.0 (/opt/ros/jazzy/share/example_interfaces/cmake)
+[5.232s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[5.267s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[5.322s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.402s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.776s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[6.050s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[6.071s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[6.454s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[6.941s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[7.401s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[8.198s] -- Found rclcpp_action: 28.1.16 (/opt/ros/jazzy/share/rclcpp_action/cmake)
+[8.264s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[8.823s] -- Added test 'copyright' to check source files copyright and LICENSE
+[8.847s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.860s] -- Configured cppcheck include dirs: 
+[8.861s] -- Configured cppcheck exclude dirs and/or files: 
+[8.866s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.877s] -- Configured cpplint exclude dirs and/or files: 
+[8.884s] -- Added test 'lint_cmake' to check CMake code style
+[8.902s] -- Added test 'uncrustify' to check C / C++ code style
+[8.902s] -- Configured uncrustify additional arguments: 
+[8.912s] -- Added test 'xmllint' to check XML markup files
+[8.921s] -- Configuring done (8.8s)
+[9.144s] -- Generating done (0.2s)
+[9.214s] -- Build files have been written to: /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_action_server
+[9.355s] Invoked command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/examples/rclcpp/actions/minimal_action_server -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/examples_rclcpp_minimal_action_server
+[9.356s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j8 -l8

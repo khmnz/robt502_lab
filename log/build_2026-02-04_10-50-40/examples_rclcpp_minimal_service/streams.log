@@ -1,0 +1,52 @@
+[0.039s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/examples/rclcpp/services/minimal_service -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service
+[0.123s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.931s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.966s] -- Found example_interfaces: 0.12.0 (/opt/ros/jazzy/share/example_interfaces/cmake)
+[1.381s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.443s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.499s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.565s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.927s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.076s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.079s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.653s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.235s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.586s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.595s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.595s] -- Configured cppcheck include dirs: 
+[3.595s] -- Configured cppcheck exclude dirs and/or files: 
+[3.595s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.595s] -- Configured cpplint exclude dirs and/or files: 
+[3.596s] -- Added test 'lint_cmake' to check CMake code style
+[3.601s] -- Added test 'uncrustify' to check C / C++ code style
+[3.601s] -- Configured uncrustify additional arguments: 
+[3.603s] -- Added test 'xmllint' to check XML markup files
+[3.616s] -- Configuring done (3.5s)
+[3.694s] -- Generating done (0.0s)
+[3.715s] -- Build files have been written to: /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service
+[3.786s] Invoked command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/examples/rclcpp/services/minimal_service -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service
+[3.795s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service -- -j4 -l4
+[3.997s] [ 50%] [32mBuilding CXX object CMakeFiles/service_main.dir/main.cpp.o[0m
+[15.047s] [100%] [32m[1mLinking CXX executable service_main[0m
+[15.545s] [100%] Built target service_main
+[15.561s] Invoked command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service -- -j4 -l4
+[15.563s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service
+[15.581s] -- Install configuration: ""
+[15.582s] -- Execute custom install script
+[15.585s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/lib/examples_rclcpp_minimal_service/service_main
+[15.609s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_service
+[15.631s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_service
+[15.645s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.sh
+[15.666s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.dsv
+[15.681s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.sh
+[15.697s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.dsv
+[15.719s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.bash
+[15.739s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.sh
+[15.754s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.zsh
+[15.771s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.dsv
+[15.791s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.dsv
+[15.815s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/packages/examples_rclcpp_minimal_service
+[15.838s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig.cmake
+[15.853s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig-version.cmake
+[15.885s] -- Symlinking: /home/nazerke/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.xml
+[15.911s] Invoked command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_service

@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = khamzina.publisher:main
+subscriber = khamzina.subscriber:main

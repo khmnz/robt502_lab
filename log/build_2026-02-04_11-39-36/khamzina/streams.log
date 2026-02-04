@@ -1,0 +1,28 @@
+[1.451s] Invoking command in '/home/nazerke/ros2_ws/src/khamzina': PYTHONPATH=/home/nazerke/ros2_ws/build/khamzina/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/khamzina build --build-base /home/nazerke/ros2_ws/build/khamzina/build install --record /home/nazerke/ros2_ws/build/khamzina/install.log --single-version-externally-managed install_data
+[1.946s] running egg_info
+[1.973s] writing ../../build/khamzina/khamzina.egg-info/PKG-INFO
+[1.977s] writing dependency_links to ../../build/khamzina/khamzina.egg-info/dependency_links.txt
+[1.977s] writing entry points to ../../build/khamzina/khamzina.egg-info/entry_points.txt
+[1.977s] writing requirements to ../../build/khamzina/khamzina.egg-info/requires.txt
+[1.977s] writing top-level names to ../../build/khamzina/khamzina.egg-info/top_level.txt
+[2.031s] reading manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+[2.032s] writing manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+[2.033s] running build
+[2.033s] running build_py
+[2.033s] copying khamzina/subscriber.py -> /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina
+[2.033s] copying khamzina/publisher.py -> /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina
+[2.034s] running install
+[2.044s] running install_lib
+[2.076s] copying /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina/subscriber.py -> /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina
+[2.077s] copying /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina/publisher.py -> /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina
+[2.078s] byte-compiling /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina/subscriber.py to subscriber.cpython-312.pyc
+[2.079s] byte-compiling /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina/publisher.py to publisher.cpython-312.pyc
+[2.079s] running install_data
+[2.080s] running install_egg_info
+[2.124s] removing '/home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina-0.0.0-py3.12.egg-info' (and everything under it)
+[2.124s] Copying ../../build/khamzina/khamzina.egg-info to /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina-0.0.0-py3.12.egg-info
+[2.126s] running install_scripts
+[2.320s] Installing publisher script to /home/nazerke/ros2_ws/install/khamzina/lib/khamzina
+[2.320s] Installing subscriber script to /home/nazerke/ros2_ws/install/khamzina/lib/khamzina
+[2.321s] writing list of installed files to '/home/nazerke/ros2_ws/build/khamzina/install.log'
+[2.362s] Invoked command in '/home/nazerke/ros2_ws/src/khamzina' returned '0': PYTHONPATH=/home/nazerke/ros2_ws/build/khamzina/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/khamzina build --build-base /home/nazerke/ros2_ws/build/khamzina/build install --record /home/nazerke/ros2_ws/build/khamzina/install.log --single-version-externally-managed install_data

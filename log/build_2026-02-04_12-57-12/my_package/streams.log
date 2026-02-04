@@ -1,0 +1,23 @@
+[0.319s] Invoking command in '/home/nazerke/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/build/my_package -- -j4 -l4
+[0.390s] [100%] Built target my_node
+[0.405s] Invoked command in '/home/nazerke/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/build/my_package -- -j4 -l4
+[0.408s] Invoking command in '/home/nazerke/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/nazerke/ros2_ws/build/my_package
+[0.419s] -- Install configuration: ""
+[0.421s] -- Execute custom install script
+[0.422s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/lib/my_package/my_node
+[0.424s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[0.425s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[0.426s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[0.427s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[0.427s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/environment/path.sh
+[0.429s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/environment/path.dsv
+[0.429s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/local_setup.bash
+[0.429s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/local_setup.sh
+[0.430s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/local_setup.zsh
+[0.431s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/local_setup.dsv
+[0.432s] -- Symlinking: /home/nazerke/ros2_ws/install/my_package/share/my_package/package.dsv
+[0.444s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+[0.445s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[0.446s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[0.446s] -- Up-to-date symlink: /home/nazerke/ros2_ws/install/my_package/share/my_package/package.xml
+[0.449s] Invoked command in '/home/nazerke/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/nazerke/ros2_ws/build/my_package

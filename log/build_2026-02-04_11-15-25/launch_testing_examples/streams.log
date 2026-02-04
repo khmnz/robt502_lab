@@ -1,0 +1,49 @@
+[1.758s] Invoking command in '/home/nazerke/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/nazerke/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/nazerke/ros2_ws/build/launch_testing_examples/build
+[2.629s] running develop
+[3.106s] Removing /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch-testing-examples.egg-link (link to .)
+[3.171s] Invoked command in '/home/nazerke/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/nazerke/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/nazerke/ros2_ws/build/launch_testing_examples/build
+[3.173s] Invoking command in '/home/nazerke/ros2_ws/src/examples/launch_testing/launch_testing_examples': PYTHONPATH=/home/nazerke/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/nazerke/ros2_ws/build/launch_testing_examples/build install --record /home/nazerke/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed install_data --force
+[3.645s] running egg_info
+[3.686s] writing ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/PKG-INFO
+[3.687s] writing dependency_links to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/dependency_links.txt
+[3.687s] writing requirements to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/requires.txt
+[3.687s] writing top-level names to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/top_level.txt
+[3.755s] reading manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[3.757s] writing manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[3.757s] running build
+[3.758s] running build_py
+[3.758s] creating /home/nazerke/ros2_ws/build/launch_testing_examples/build
+[3.759s] creating /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib
+[3.759s] creating /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.759s] copying launch_testing_examples/check_multiple_nodes_launch_test.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.761s] copying launch_testing_examples/check_msgs_launch_test.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.761s] copying launch_testing_examples/record_rosbag_launch_test.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.762s] copying launch_testing_examples/check_node_launch_test.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.763s] copying launch_testing_examples/set_param_launch_test.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.764s] copying launch_testing_examples/__init__.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.764s] copying launch_testing_examples/hello_world_launch_test.py -> /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[3.765s] running install
+[3.779s] running install_lib
+[3.812s] creating /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.812s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/check_multiple_nodes_launch_test.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.813s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/check_msgs_launch_test.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.813s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/record_rosbag_launch_test.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.813s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/check_node_launch_test.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.814s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/set_param_launch_test.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.814s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/__init__.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.814s] copying /home/nazerke/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/hello_world_launch_test.py -> /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples
+[3.815s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/check_multiple_nodes_launch_test.py to check_multiple_nodes_launch_test.cpython-312.pyc
+[3.817s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/check_msgs_launch_test.py to check_msgs_launch_test.cpython-312.pyc
+[3.817s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/record_rosbag_launch_test.py to record_rosbag_launch_test.cpython-312.pyc
+[3.818s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/check_node_launch_test.py to check_node_launch_test.cpython-312.pyc
+[3.819s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/set_param_launch_test.py to set_param_launch_test.cpython-312.pyc
+[3.820s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/__init__.py to __init__.cpython-312.pyc
+[3.821s] byte-compiling /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples/hello_world_launch_test.py to hello_world_launch_test.cpython-312.pyc
+[3.821s] running install_data
+[3.822s] copying resource/launch_testing_examples -> /home/nazerke/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[3.823s] copying package.xml -> /home/nazerke/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[3.825s] running install_egg_info
+[3.860s] Copying ../../../../build/launch_testing_examples/launch_testing_examples.egg-info to /home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples-0.19.7-py3.12.egg-info
+[3.862s] running install_scripts
+[4.082s] writing list of installed files to '/home/nazerke/ros2_ws/build/launch_testing_examples/install.log'
+[4.126s] Invoked command in '/home/nazerke/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': PYTHONPATH=/home/nazerke/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazerke/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/nazerke/ros2_ws/build/launch_testing_examples/build install --record /home/nazerke/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed install_data --force

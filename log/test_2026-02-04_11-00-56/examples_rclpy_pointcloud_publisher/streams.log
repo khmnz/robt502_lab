@@ -1,0 +1,17 @@
+[0.748s] Invoking command in '/home/nazerke/ros2_ws/src/examples/rclpy/topics/pointcloud_publisher': AMENT_PREFIX_PATH=/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher/pytest.xml --junit-prefix=examples_rclpy_pointcloud_publisher -o cache_dir=/home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[1.441s] [1m============================= test session starts ==============================[0m
+[1.441s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[1.451s] cachedir: /home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher/.pytest_cache
+[1.451s] rootdir: /home/nazerke/ros2_ws/src/examples/rclpy
+[1.452s] configfile: pytest.ini
+[1.452s] plugins: ament-copyright-0.17.4, ament-pep257-0.17.4, launch-testing-ros-0.26.11, ament-lint-0.17.4, ament-xmllint-0.17.4, ament-flake8-0.17.4, launch-testing-3.4.10, typeguard-4.1.5, cov-4.1.0, colcon-core-0.20.1
+[1.589s] [1mcollecting ... [0m[1m
+[1.590s] collected 3 items                                                              [0m
+[1.593s] 
+[2.158s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[2.479s] test/test_flake8.py [32m.[0m[32m                                                    [ 66%][0m
+[2.512s] test/test_pep257.py [32m.[0m[32m                                                    [100%][0m
+[2.512s] 
+[2.513s] - generated xml file: /home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher/pytest.xml -
+[2.513s] [32m============================== [32m[1m3 passed[0m[32m in 1.07s[0m[32m ===============================[0m
+[2.693s] Invoked command in '/home/nazerke/ros2_ws/src/examples/rclpy/topics/pointcloud_publisher' returned '0': AMENT_PREFIX_PATH=/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher/pytest.xml --junit-prefix=examples_rclpy_pointcloud_publisher -o cache_dir=/home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/nazerke/ros2_ws/build/examples_rclpy_pointcloud_publisher:/home/nazerke/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

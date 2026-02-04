@@ -1,0 +1,6 @@
+source;share/khamzina/hook/pythonpath.ps1
+source;share/khamzina/hook/pythonpath.dsv
+source;share/khamzina/hook/pythonpath.sh
+source;share/khamzina/hook/ament_prefix_path.ps1
+source;share/khamzina/hook/ament_prefix_path.dsv
+source;share/khamzina/hook/ament_prefix_path.sh

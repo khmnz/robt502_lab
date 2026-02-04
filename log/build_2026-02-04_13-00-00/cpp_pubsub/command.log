@@ -1,0 +1,2 @@
+Invoking command in '/home/nazerke/ros2_ws/build/cpp_pubsub': /usr/bin/cmake /home/nazerke/ros2_ws -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/cpp_pubsub
+Invoked command in '/home/nazerke/ros2_ws/build/cpp_pubsub' returned '1': /usr/bin/cmake /home/nazerke/ros2_ws -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/cpp_pubsub

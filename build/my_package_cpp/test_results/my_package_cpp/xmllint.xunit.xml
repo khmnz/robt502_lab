@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="my_package_cpp.xmllint"
+  tests="1"
+  errors="0"
+  failures="0"
+  time="0.352"
+>
+  <testcase
+    name="package.xml"
+    classname="my_package_cpp.xmllint"/>
+  <system-out>Checked files:
+* package.xml</system-out>
+</testsuite>

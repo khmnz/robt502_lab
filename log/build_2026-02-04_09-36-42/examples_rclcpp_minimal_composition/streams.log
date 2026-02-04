@@ -1,0 +1,43 @@
+[0.046s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/examples/rclcpp/composition/minimal_composition -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/examples_rclcpp_minimal_composition
+[0.553s] -- The C compiler identification is GNU 13.3.0
+[1.750s] -- The CXX compiler identification is GNU 13.3.0
+[2.766s] -- Detecting C compiler ABI info
+[3.273s] -- Detecting C compiler ABI info - done
+[3.291s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.292s] -- Detecting C compile features
+[3.292s] -- Detecting C compile features - done
+[3.438s] -- Detecting CXX compiler ABI info
+[4.157s] -- Detecting CXX compiler ABI info - done
+[4.180s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.181s] -- Detecting CXX compile features
+[4.184s] -- Detecting CXX compile features - done
+[4.193s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[4.698s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[5.030s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[5.959s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[6.038s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[6.127s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.266s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.584s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[6.593s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[6.855s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[7.577s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[7.916s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[8.835s] -- Found rclcpp_components: 28.1.16 (/opt/ros/jazzy/share/rclcpp_components/cmake)
+[9.496s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[9.755s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[10.916s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.931s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.953s] -- Configured cppcheck include dirs: /home/nazerke/ros2_ws/src/examples/rclcpp/composition/minimal_composition/include
+[10.954s] -- Configured cppcheck exclude dirs and/or files: 
+[10.955s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.956s] -- Configured cpplint exclude dirs and/or files: 
+[10.972s] -- Added test 'lint_cmake' to check CMake code style
+[10.996s] -- Added test 'uncrustify' to check C / C++ code style
+[11.008s] -- Configured uncrustify additional arguments: 
+[11.009s] -- Added test 'xmllint' to check XML markup files
+[11.024s] -- Configuring done (10.9s)
+[11.313s] -- Generating done (0.2s)
+[11.466s] -- Build files have been written to: /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_composition
+[11.753s] Invoked command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/nazerke/ros2_ws/src/examples/rclcpp/composition/minimal_composition -DCMAKE_INSTALL_PREFIX=/home/nazerke/ros2_ws/install/examples_rclcpp_minimal_composition
+[11.755s] Invoking command in '/home/nazerke/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/nazerke/ros2_ws/build/examples_rclcpp_minimal_composition -- -j8 -l8

@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/khamzina/khamzina.egg-info
+writing ../../build/khamzina/khamzina.egg-info/PKG-INFO
+writing dependency_links to ../../build/khamzina/khamzina.egg-info/dependency_links.txt
+writing requirements to ../../build/khamzina/khamzina.egg-info/requires.txt
+writing top-level names to ../../build/khamzina/khamzina.egg-info/top_level.txt
+writing manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+reading manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+writing manifest file '../../build/khamzina/khamzina.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nazerke/ros2_ws/build/khamzina/build
+creating /home/nazerke/ros2_ws/build/khamzina/build/lib
+creating /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina
+copying khamzina/__init__.py -> /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina
+running install
+running install_lib
+creating /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina
+copying /home/nazerke/ros2_ws/build/khamzina/build/lib/khamzina/__init__.py -> /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina
+byte-compiling /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/nazerke/ros2_ws/install/khamzina/share/ament_index
+creating /home/nazerke/ros2_ws/install/khamzina/share/ament_index/resource_index
+creating /home/nazerke/ros2_ws/install/khamzina/share/ament_index/resource_index/packages
+copying resource/khamzina -> /home/nazerke/ros2_ws/install/khamzina/share/ament_index/resource_index/packages
+copying package.xml -> /home/nazerke/ros2_ws/install/khamzina/share/khamzina
+running install_egg_info
+Copying ../../build/khamzina/khamzina.egg-info to /home/nazerke/ros2_ws/install/khamzina/lib/python3.12/site-packages/khamzina-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/nazerke/ros2_ws/build/khamzina/install.log'
